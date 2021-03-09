@@ -2,7 +2,6 @@
 
 def reverteEmostra(listaNum): # passa uma lista por parâmetro = [7,0,1]
 
-    # liNum = [] # lista vazia
     if listaNum != []: # se a lista passada por parâmetro for diferente de vazia
         listaNum = listaNum[::-1] # reverto essa lista e coloco nessa variável
 
