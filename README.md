@@ -7,8 +7,8 @@ Esta pasta contém material que pode ser usado por programadores ou não program
 
 Os exercícios incluem:
 
--[x] if/else
--[x] for/while
--[x] fatiamento de strings
--[x] listas, tuplas, dicionários, sets
--[x] uso de variáveis,operadores lógicos
+- [x] if/else
+- [x] for/while
+- [x] fatiamento de strings
+- [x] listas, tuplas, dicionários, sets
+- [x] uso de variáveis,operadores lógicos
