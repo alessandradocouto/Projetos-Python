@@ -1,6 +1,6 @@
 # Lógica de Programação com Python
 
-Exercícios resolvidos de Python 3.
+Exercícios resolvidos de Python 3.8.5.
 
 # Introdução
 
