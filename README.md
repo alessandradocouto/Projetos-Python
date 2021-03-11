@@ -1,15 +1,14 @@
-# Lógica de Programação com Python
-
-Exercícios resolvidos de Python 3.8.5.
+# Ideias de projetos práticos com Python
+Foi usado Python 3.8.5.
 
 # Introdução
 
-Esta pasta contém material que pode ser usado por programadores ou não programadores que desejam melhorar sua lógica de programação.
+Esta pasta contém material que pode ser usado por programadores ou não programadores que desejam iniciar, treinar ou melhorar seu conhecimento.
 
 Os exercícios abordam:
 
-- [x] if/else
+- [x] if/elif/else
 - [x] for/while
 - [x] fatiamento de strings
-- [x] listas, tuplas, dicionários, sets
-- [x] uso de variáveis,operadores lógicos
+- [x] lista, tupla, dicionário, set, funçao
+- [x] operadores lritméticos e lógicos
