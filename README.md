@@ -6,7 +6,7 @@ Foi usado Python 3.8.5.
 Esta pasta contém material que pode ser usado por programadores ou não programadores que desejam iniciar, treinar ou melhorar seu conhecimento.
 
 ### Dia 1:
-Faça um conversor de bases numéricas, tranforme um número em decimal em bases d 2 a 9.
+Faça um conversor de bases numéricas, tranforme um número em decimal em bases de 2 a 9.
 
 ### Dia 2:
 Ache os dois maiores números que estão sendo passados pelo usuário.
@@ -24,8 +24,7 @@ Em apenas 1 linha digite os números para verificar se são perfeitos.
 Fazer o faturamento mensal totl e de cada cidade.
 
 ### Dia 7:
-Descubra qual a proteína correspondente.
-
+Descubra qual a cadeia de aminoácidos que representam a proteína.
 
 
 Os assuntos abordados são estes:
