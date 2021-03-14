@@ -1,4 +1,4 @@
-# Ideias de projetos práticos com Python
+# Projetos práticos com Python
 Foi usado Python 3.8.5.
 
 # Introdução
@@ -6,29 +6,31 @@ Foi usado Python 3.8.5.
 Esta pasta contém material que pode ser usado por programadores ou não programadores que desejam iniciar, treinar ou melhorar seu conhecimento.
 
 ### Dia 1:
-Faça um conversor de bases numéricas, tranforme um número em decimal em bases de 2 a 9.
+Transforme um número com base decimal em bases de 2 a 9.
 ![Instrucao detalhada](conversor_de_bases/instrucao.pdf)
 
 ### Dia 2:
 Ache os dois maiores números que estão sendo passados pelo usuário.
+![Instrução detalhada](dois_numeros_maiores/instrucao.jpg)
 
 ### Dia 3:
 Faça um código que identifique palavras palindromes que contenham vogais.
+![Instrução detalha](palavras_palindromes_com_vogais/linstrucao.jpg)
 
 ### Dia 4:
 Identificar a frase que contem mais vogais que dígitos.
-
-### Dia 5:
-Em apenas 1 linha digite os números para verificar se são perfeitos.
+![Instrução detalha](mais_vogais_que_digitos/instrucao.png)
 
 ### Dia 6:
 Fazer o faturamento mensal totl e de cada cidade.
+![Instrução detalha](maior_faturamento_mensal/instrucao.jpg)
 
 ### Dia 7:
 Descubra qual a cadeia de aminoácidos que representam a proteína.
+![Instrução detalha](traducao_rna_msg/instrucao.jpg)
 
 
-Os assuntos abordados são estes:
+#### Os assuntos abordados são estes:
 
 - [x] if/elif/else
 - [x] for/while
