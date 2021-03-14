@@ -1,6 +1,3 @@
-# Projetos práticos com Python
-Foi usado Python 3.8.5.
-
 # Introdução
 
 Esta pasta contém material que pode ser usado por programadores ou não programadores que desejam iniciar, treinar ou melhorar seu conhecimento.
@@ -23,7 +20,7 @@ Esta pasta contém material que pode ser usado por programadores ou não program
 ### Dia 6: Fazer o faturamento mensal total e faturamento de cada cidade em relação ao total
 ![Instrução detalhada](maior_faturamento_mensal/instrucao.jpg)
 
-### Dia 7: Descubra qual a cadeia de aminoácidos que represente tal proteína
+### Dia 7: Descubra qual a cadeia de aminoácidos que representa tal proteína
 ![Instrução detalha](traducao_rna_msg/instrucao.jpg)
 
 
