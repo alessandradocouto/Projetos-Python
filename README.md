@@ -7,7 +7,7 @@ Esta pasta contém material que pode ser usado por programadores ou não program
 
 ### Dia 1:
 Transforme um número com base decimal em bases de 2 a 9.
-![Instrucao detalhada](conversor_de_bases/instrucao.jpg)
+![Instrução detalhada](conversor_de_bases/instrucao.jpg)
 
 ### Dia 2:
 Ache os dois maiores números que estão sendo passados pelo usuário.
