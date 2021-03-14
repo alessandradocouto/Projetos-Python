@@ -7,6 +7,7 @@ Esta pasta contém material que pode ser usado por programadores ou não program
 
 ### Dia 1:
 Faça um conversor de bases numéricas, tranforme um número em decimal em bases de 2 a 9.
+(conversor_de_bases/instrucao.pdf)
 
 ### Dia 2:
 Ache os dois maiores números que estão sendo passados pelo usuário.
